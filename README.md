@@ -1,2 +1,2 @@
 # git_workshop
-Just getting started!
+Just gitting started!
